@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VOIDNETWORK-KxK-ntks.aternos.me:23422",
+    "ip": "VOIDNETWORK-KxK-ntks.aternos.me",
     "port": 23422,
     "version": "1.21.1"
   },
